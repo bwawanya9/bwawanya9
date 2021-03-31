@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bwawanya9
 - 👀 I’m interested in learning to code better and to learn more about it.
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning more about coding. I have a degree in Cyber Security 
 - 📫 How to reach me Emal: Dawanyaguilford@yahoo.com
 
 <!---
